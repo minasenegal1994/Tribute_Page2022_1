@@ -1,0 +1,15 @@
+h1, h3, h4, #img-caption, #tribute-info {
+  text-align: center;
+}
+
+
+#image {
+  max-height: 100%;
+  max-width: 100%;
+  margin: auto;
+  display: block;
+}
+
+#tribute-info {
+ font-size: 20px;
+}

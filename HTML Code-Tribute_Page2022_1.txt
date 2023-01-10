@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <main id="main">
+      <title id="title">Tribute Page for Teena Marie</title>
+      <h1>Teena Marie</h1>
+      <h3><i>A Woman with Soul</i></h3>
+    
+  
+    <div id="img-div">
+      <img id="image" src="http://media.mlive.com/entertainment/detroit_impact/photo/9149981-large.jpg"/>
+
+      <figcaption id="img-caption"><i>Teena Marie with her guitar</i></figcaption>
+      </div>
+      
+      <p id="tribute-info">Teena Marie was Motown's first 'White Act'</p>
+      <a id="tribute-link" href="https://www.mlive.com/entertainment/detroit/2010/12/remembering_teena_marie_the_fi.html" target="_blank"></a>
+      </main>
+  </head>
+  <body></body>
+</html>
+<link rel="stylesheet" href="styles.css">
